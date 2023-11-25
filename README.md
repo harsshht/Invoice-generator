@@ -1,6 +1,6 @@
 
 
-```
+
 # Invoice Generator
 
 This is a simple invoice generator web application built with React and Redux for state management.
